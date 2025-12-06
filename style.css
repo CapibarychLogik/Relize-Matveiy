@@ -1,0 +1,139 @@
+h1 {
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image: linear-gradient(to right,#727272, #0b5845 , #1a2a6c,#7b049c ,#ffffff);
+color: white;
+}
+
+
+body {
+background-color: aquamarine;
+}
+
+
+.block {
+        display: flex;
+        margin-left: 10%;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+        
+    }
+
+.block1{
+            display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top:30px ;
+        margin-bottom:30px ;
+        padding: 30px;
+        background-color: rgba(56, 56, 56, 0.2);
+        box-shadow: 20px 15px 5px 0 rgb(81, 81, 82);
+}
+
+.block1 img {
+        width: 200px;
+        margin-right: 20px;
+        opacity: 0.8;
+    }
+
+.block1 p {
+        font-size: 18px;
+        max-width: 400px;
+    }
+p{
+    color:rgb(55, 74, 215);
+    font-family: cursive;
+
+    } 
+
+.poroshenco{
+    display: flex;
+    justify-content: center;
+ text-align: center;
+ text-decoration: none;
+ color: white;
+ background-color: red;
+ border-radius: 5%;
+ padding: 10px;
+ height: 50px;
+ padding-top: 30px;
+ font-size:xx-large;
+ font-family: sans-serif;
+}
+
+
+h1 {
+
+
+
+
+}
+
+
+.adin:hover {
+display: flex;
+position: relative;
+transform: scale(2);
+left: 10%;
+top: 10;
+opacity: 1;
+
+}
+
+.dwa:hover {
+display: flex;
+position: relative;
+transform: scale(2);
+left: 10%;
+top: 10;
+opacity: 1;
+}
+
+.tri:hover{
+display: flex;
+position: relative;
+transform: scale(2);
+left: 10%;
+top: 10;
+opacity: 1;
+}
+
+.chtr:hover{
+
+display: flex;
+position: relative;
+transform: scale(2);
+left: 10%;
+top: 10;
+opacity: 1;
+}
+
+
+.pat:hover{
+display: flex;
+position: relative;
+transform: scale(2);
+left: 10%;
+top: 10;
+opacity: 1;
+
+
+
+
+}
+
+
+
+.six:hover{
+display: flex;
+position: relative;
+transform: scale(2);
+left: 10%;
+top: 10;
+opacity: 1;
+
+
+
+}
